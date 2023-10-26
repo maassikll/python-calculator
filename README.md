@@ -28,5 +28,5 @@ Install the two requirement to test the project
 
 here the youtub video to watch how it work !
 
-https://studio.youtube.com/channel/UCnqvCv8I9AbZJash8Kt41IQ
+[https://studio.youtube.com/channel/UCnqvCv8I9AbZJash8Kt41IQ](https://www.youtube.com/watch?v=ArpAGfTRqNI&ab_channel=SnakeMAGIC)https://www.youtube.com/watch?v=ArpAGfTRqNI&ab_channel=SnakeMAGIC
 "# python-calculator" 
